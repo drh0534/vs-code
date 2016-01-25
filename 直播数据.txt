@@ -1,0 +1,66 @@
+﻿{
+    "message": "success",
+    "status": 1,
+    "serverTime":"******",
+    "data": [
+
+            {
+                "name": "",
+                "subName": "",
+                 "isLive":"",
+                "videoUrl": "",
+                 "description":"",
+				"startTime":"",
+				"imgbg":"",//大背景
+				"imgNormal":"",
+				"imgFocus":"",
+				"imgPoster":"",//海报
+				"videoList":[  ]//点播时的播放列表，根据专辑id请求vrs接口http://api.vego.tv/video_v1/videoList?albumId=63995&videoType=1&serialType=2 将data对应的值返回
+
+
+            },
+            {
+                "name": "",
+                "subName": "",
+                 "isLive":"",
+                "videoUrl": "",
+                 "description":"",
+"startTime":"",
+"imgbg":"",//大背景
+"imgNormal":"",
+"imgFocus":"",
+"imgPoster":"",//海报
+"videoList":[  ]//点播时的播放列表，根据专辑id请求vrs接口http://api.vego.tv/video_v1/videoList?albumId=63995&videoType=1&serialType=2 将data对应的值返回
+            },
+            {
+                "name": "",
+                "subName": "",
+                 "isLive":"",
+                "videoUrl": "",
+                 "description":"",
+"startTime":"",
+"imgbg":"",//大背景
+"imgNormal":"",
+"imgFocus":"",
+"imgPoster":"",//海报
+"videoList":[  ]//点播时的播放列表，根据专辑id请求vrs接口http://api.vego.tv/video_v1/videoList?albumId=63995&videoType=1&serialType=2 将data对应的值返回
+            },
+            {
+                "name": "",
+                "subName": "",
+                 "isLive":"",
+                "videoUrl": "",
+                 "description":"",
+				"startTime":"",
+				"imgbg":"",//大背景
+				"imgNormal":"",
+				"imgFocus":"",
+				"imgPoster":"",//海报
+				"videoList":[  ]//点播时的播放列表，根据专辑id请求vrs接口http://api.vego.tv/video_v1/videoList?albumId=63995&videoType=1&serialType=2 将data对应的值返回
+            }
+
+           ]
+        
+     
+
+}

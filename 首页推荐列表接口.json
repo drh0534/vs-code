@@ -1,0 +1,29 @@
+//   首页使用的接口
+{
+	"status": "",
+	//状态1：失败，0：成功
+	"recommends":	[//首页推荐分类列表
+	{
+		"categoryTitle": "",//分类名称"data": 
+		[{
+			"ablumId": "",//专辑id
+			"name": "",	//名称
+			"subname": "",//子标题
+			"img": "",//列表item使用图片
+			"vid": "",//当前第一集视频id
+			"imageUrl": "",//图片地址,在推荐列表中使用的图片
+			"description": "",//描述
+			"star": "",	//星评
+			"releaseTime": ""//上映时间
+			"area": "",	//地区
+			"imgBack": //大背景图片集合
+			[{
+				"image": ""//图片地址
+			}]
+		}]
+	}]
+}
+
+
+
+

@@ -1,0 +1,19 @@
+// 剧集详情接口
+{
+  "state" :"",                        // 状态 1：失败，0：成功
+  "episode":{
+    "totalSize":"",                   // 剧集总数
+    "pageNumber":"",                  // 当前页码
+    "pageCount":"",                   // 当前一页个数
+    "episodes":[
+      {
+        "name":"",                 // 当前剧集名称
+        "installment":"",           // 当前剧集数
+        "img":"",                   // 当前剧集截图
+        "discription":"",           // 当前剧集描述
+        "duration" :"",             // 当前剧集时长
+        "vid":""                   // 当前剧集视频id
+      }
+    ]
+  }
+}
